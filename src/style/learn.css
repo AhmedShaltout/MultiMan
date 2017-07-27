@@ -1,0 +1,32 @@
+.two{
+	-fx-background-color: red;
+	-fx-text-fill:  red ;
+}
+.three{
+	-fx-background-color:coral   ;
+	-fx-text-fill:coral  ;
+}
+.four{
+	-fx-background-color:rgb(242,121,0);
+	-fx-text-fill: rgb(242,121,0) ;
+}
+.five{
+	-fx-background-color: coral    ;
+	-fx-text-fill:  coral  ;
+}
+.six{
+	-fx-background-color:blue  ;
+	-fx-text-fill:  blue;
+}
+.seven{
+	-fx-background-color: darkblue  ;
+	-fx-text-fill:  darkblue;
+}
+.eight{
+	-fx-background-color:indigo  ;
+	-fx-text-fill:  indigo;
+}
+.nine{
+	-fx-background-color: darkviolet;
+	-fx-text-fill: darkviolet;
+}

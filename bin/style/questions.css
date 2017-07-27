@@ -1,0 +1,6 @@
+.but{
+	-fx-border-color: rgba(0,0,0,0.5);
+	-fx-border-radius: 50%;
+	-fx-background-radius: 100;
+	-fx-background-color: ivory;
+}
